@@ -16,9 +16,8 @@
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Processo de Desenvolvimento](#processo-de-desenvolvimento)
   - [(Roteiro / Diario) de desenvolvimento](#roteiro--diario-de-desenvolvimento)
-  - [Layout Mobile](#layout-mobile)
   - [Layout Web](#layout-web)
-  - [Modelo Conceitual](#modelo-conceitual)
+  - [Layout Mobile](#layout-mobile)
 - [Autor](#autores)
 
 ## Sobre o Projeto
@@ -60,18 +59,20 @@ Foram dedicados 4 cursos para a construção do site. É ensinado a transformar 
 ### (Roteiro / Diario) de desenvolvimento
 
 - Link externo para aba projetos, ou um lugar onde esteja todo relato de desenvolvimento
-
-### Layout Mobile
-
-- Imagens
-
-### Layout Web
+  
+### Desktop Layout
 
 - Imagens
 
-### Modelo Conceitual
+### Tablet Layout
 
 - Imagens
+
+### Mobile Layout
+
+- Imagens
+
+
 
 
 ## Autor(es)
