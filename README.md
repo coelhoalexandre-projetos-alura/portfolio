@@ -14,11 +14,11 @@
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Layouts](#processo-de-desenvolvimento)
+- [Layouts](#layouts)
   - [Desktop Layout](#desktop-layout)
   - [Tablet Layout](#tablet-layout)
   - [Mobile Layout](#mobile-layout)
-- Adaptações
+- [Adaptações](#adaptações)
 - [Autor](#autores)
 
 ## Sobre o Projeto
