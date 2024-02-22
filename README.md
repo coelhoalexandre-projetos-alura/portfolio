@@ -14,10 +14,11 @@
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Processo de Desenvolvimento](#processo-de-desenvolvimento)
-  - [(Roteiro / Diario) de desenvolvimento](#roteiro--diario-de-desenvolvimento)
-  - [Layout Web](#layout-web)
-  - [Layout Mobile](#layout-mobile)
+- [Layouts](#processo-de-desenvolvimento)
+  - [Desktop Layout](#desktop-layout)
+  - [Tablet Layout](#tablet-layout)
+  - [Mobile Layout](#mobile-layout)
+- Adaptações
 - [Autor](#autores)
 
 ## Sobre o Projeto
@@ -54,25 +55,28 @@ Foram dedicados 4 cursos para a construção do site. É ensinado a transformar 
 1. HTML
 2. CSS
 
-## Processo de Desenvolvimento 
-
-### (Roteiro / Diario) de desenvolvimento
-
-- Link externo para aba projetos, ou um lugar onde esteja todo relato de desenvolvimento
+## Layouts 
   
 ### Desktop Layout
 
-- Imagens
+**Width de 1920px** <br>
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-1920px.jpg" alt="Imagem do Portfolio Alura com width de 1920px"> 
+
+**Width de 1280px** <br>
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-1280px.jpg" alt="Imagem do Portfolio Alura com width de 1280px"> 
 
 ### Tablet Layout
 
-- Imagens
+**Width de 768px** <br>
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-768px.jpg" alt="Imagem do Portfolio Alura com width de 728px"> 
 
 ### Mobile Layout
 
-- Imagens
+**Width de 320px** <br>
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-320px.jpg" alt="Imagem do Portfolio Alura com width de 320px"> 
 
 
+## Adaptações
 
 
 ## Autor(es)
