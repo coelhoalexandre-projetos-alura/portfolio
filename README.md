@@ -59,25 +59,36 @@ Foram dedicados 4 cursos para a construção do site. É ensinado a transformar 
   
 ### Desktop Layout
 
-**Width de 1920px** <br>
-<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-1920px.jpg" alt="Imagem do Portfolio Alura com width de 1920px"> 
+**Width de 1920px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-1920px.jpg
 
-**Width de 1280px** <br>
-<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-1280px.jpg" alt="Imagem do Portfolio Alura com width de 1280px"> 
+**Width de 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-1280px.jpg
 
 ### Tablet Layout
 
-**Width de 768px** <br>
-<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-768px.jpg" alt="Imagem do Portfolio Alura com width de 728px"> 
+**Width de 768px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-768px.jpg
 
 ### Mobile Layout
 
-**Width de 320px** <br>
-<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-320px.jpg" alt="Imagem do Portfolio Alura com width de 320px"> 
+**Width de 452px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/portfolio-alura-320px.jpg
 
 
 ## Adaptações
 
+Em busca da personalização do projeto, fiz diversas alterações. Posso dizer que somente a ideia de como era o projeto sobrou, porquê alterei quase tudo.
+
+### Desktop Layout
+
+**Width de 1440px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/meu-portfolio-alura-1440px.jpg
+
+**Width de 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/meu-portfolio-alura-1280px.jpg
+
+### Tablet Layout
+
+**Width de 768px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/meu-portfolio-alura-768px.jpg
+
+### Mobile Layout
+
+**Width de 480px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/meu-portfolio-alura-480px.jpg
 
 ## Autor
 
