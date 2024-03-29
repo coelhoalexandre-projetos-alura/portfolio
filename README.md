@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em_Progresso-blue.svg" alt="Em Progresso">
+  <a href="https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Concluido-lightgreen.svg" alt="Concluido">
 
 </div>
 
@@ -46,9 +46,9 @@ Foram dedicados 4 cursos para a construção do site. É ensinado a transformar 
 
 - **Botão/Link "Home"**: Redireciona para o index.html, a página inicial;
 - **Botão/Link "Sobre mim"**: Redireciona para o about.html, a página secundaria do projeto;
-- **Botão/Link "GitHub"**: Sem função;
-- **Botão/Link "LinkedIn"**: Sem função;
-- **Botão/Link "Twitch"**: Sem função;
+- **Botão/Link "GitHub"**: Redireciona para o github coelhoalexandre;
+- **Botão/Link "LinkedIn"**: Redireciona para o linkedin -coelhoalexandre;
+- **Botão/Link "Instagram"**: Redireciona para o instagram coelhoalexandre_;
 
 ## Tecnolgias Utilizadas
 
