@@ -16,11 +16,11 @@
 
 ## Cursos e Instrutores
 
-|Curso|Instrutores|
-|---|---|
-|[HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)|**[Guilherme Lima](https://github.com/guilhermeonrails)**, **[Rafaella Ballerini](https://github.com/rafaballerini)**|
-|[HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox)|**[Guilherme Lima](https://github.com/guilhermeonrails)**, **[Rafaella Ballerini](https://github.com/rafaballerini)**|
-|[HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css)|**[Guilherme Lima](https://github.com/guilhermeonrails)**, **[Rafaella Ballerini](https://github.com/rafaballerini)**|
+|Curso                                                                                                                                                |Instrutores                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+|[HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)         |**[Guilherme Lima](https://github.com/guilhermeonrails)**, **[Rafaella Ballerini](https://github.com/rafaballerini)**|
+|[HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox)                          |**[Guilherme Lima](https://github.com/guilhermeonrails)**, **[Rafaella Ballerini](https://github.com/rafaballerini)**|
+|[HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css)                          |**[Guilherme Lima](https://github.com/guilhermeonrails)**, **[Rafaella Ballerini](https://github.com/rafaballerini)**|
 |[HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos)|**[Guilherme Lima](https://github.com/guilhermeonrails)**, **[Rafaella Ballerini](https://github.com/rafaballerini)**|
 
 ## Objetivos do Projeto
