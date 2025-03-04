@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Concluido-lightgreen.svg" alt="Concluido">
+  <a href="https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a> <img src="https://img.shields.io/badge/Concluido-lightgreen.svg" alt="Concluido" />
 
 </div>
 
